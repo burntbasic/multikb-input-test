@@ -1,0 +1,10 @@
+.clangd
+
+# Windows build artifacts
+*.exe
+*.dll
+*.o
+*.obj
+
+# Build directory
+/build/
